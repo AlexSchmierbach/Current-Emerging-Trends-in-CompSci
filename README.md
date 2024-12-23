@@ -1,5 +1,5 @@
 # Current-Emerging-Trends-in-CompSci
-## Briefly explain the work that you did on this project: What code were you give? What code did you create yourself?
+## Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
 The project began with a foundational codebase that included:
 1. A basic environment setup for the pirate agent.
 2. Initial implementations of reinforcement learning algorithms.
